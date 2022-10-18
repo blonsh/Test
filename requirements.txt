@@ -1,0 +1,5 @@
+streamlit
+pandas
+openpyxl
+streamlit-aggrid
+click<=8.0.4
