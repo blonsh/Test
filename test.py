@@ -77,7 +77,7 @@ st.markdown(textos[tema_seleccionado])
 
 try:
     if proceso:
-        st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023.')
+        st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023 usando Inteligencia Artificial.')
         st.subheader(proceso)
         
 except:
