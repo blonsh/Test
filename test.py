@@ -52,7 +52,7 @@ fuentes['Ejercicio'] = """  \n  \n  Fuente de los datos: https://datosabiertos.b
 # Estructura:
 ## Sidebar:
 sidebar = st.sidebar
-sidebar.image('Images//logo_sds.png')
+sidebar.image('Images//logo_sds.png', width=250)
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
 sidebar.markdown('Accede a la aplicación desde el celular escaneando el código qr:')
 sidebar.image('Images//qrcode.png', width=250)
