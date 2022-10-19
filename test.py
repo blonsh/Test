@@ -8,7 +8,7 @@ import plotly.express as px
 st.set_page_config(page_title="Ciencia de Datos - SDS", page_icon="📊")
 
 # Temas:
-tema = ['Introducción: ¿Qué significan estos conceptos?', 
+tema = ['¿Qué significan estos conceptos?', 
         '¿Para qué nos sirve la Ciencia de Datos?', 
         '¿Cuáles son las técnicas de la ciencia de datos?',
         '¿Cuál es el proceso de la ciencia de datos?',
