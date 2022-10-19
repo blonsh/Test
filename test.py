@@ -7,9 +7,6 @@ import plotly.express as px
 # Configuración de la App:
 st.set_page_config(page_title="Ciencia de Datos - SDS", page_icon="📊")
 
-# Bases de datos:
-
-
 # Temas:
 tema = ['Introducción: ¿Qué significan estos conceptos?', 
         '¿Para qué nos sirve la Ciencia de Datos?', 
@@ -17,7 +14,6 @@ tema = ['Introducción: ¿Qué significan estos conceptos?',
         '¿Cuál es el proceso de la ciencia de datos?',
         '¿Qué herramientas usa un científico de datos?',
         'Ejercicio']
-        #'Ejercicio 2.']
 
 procesos = ['Cargar Base de Datos',
             'Análisis Exploratorio de Datos - EDA',
@@ -43,7 +39,6 @@ imagenes['¿Cuáles son las técnicas de la ciencia de datos?'] = 'Images//algor
 imagenes['¿Cuál es el proceso de la ciencia de datos?'] = 'Images//proceso.jpeg'
 imagenes['¿Qué herramientas usa un científico de datos?'] = 'Images//herramientas.png'
 imagenes['Ejercicio'] = 'Images//datos_abiertos.png'
-#imagenes['Ejercicio 2.'] = 'Images//datos_abiertos.png'
 
 # Fuentes:
 fuentes = dict()
@@ -53,20 +48,14 @@ fuentes['¿Cuáles son las técnicas de la ciencia de datos?'] = """  \n  \n  Fu
 fuentes['¿Cuál es el proceso de la ciencia de datos?'] = """  \n  \n  Fuente: https://aws.amazon.com/es/what-is/data-science/"""
 fuentes['¿Qué herramientas usa un científico de datos?'] = """  \n  \n  Fuentes:  \n  \n  https://medium.com/@goodrebels/las-herramientas-de-trabajo-del-cient%C3%ADfico-de-datos-6e16c8c71415  \n  \n  https://geekflare.com/es/data-science-tools/  \n  \n  https://www.ceupe.mx/blog/conoces-jupyter-notebook.html  \n  \n  https://colab.research.google.com/"""
 fuentes['Ejercicio'] = """  \n  \n  Fuente de los datos: https://datosabiertos.bogota.gov.co/"""
-#fuentes['Ejercicio 2.'] = """  \n  \n  Fuente de los datos: https://datosabiertos.bogota.gov.co/"""
-
-# Ejercicios:
-
 
 # Estructura:
 ## Sidebar:
 sidebar = st.sidebar
 sidebar.image('Images//logo_sds.png')
-sidebar.header('X Jornada Distrital de Epidemiología y Salud Pública')
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
-
-#if 'Ejercicio' in tema_seleccionado:
-#    proceso = sidebar.selectbox('Selecciona un proceso', procesos)
+sidebar.header('Accede a la aplicación desde el celular escaneando el código qr:')
+sidebar.image('Images//qrcode.png')
 
 ## Principal:
 st.header('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
@@ -76,10 +65,8 @@ st.image(imagenes[tema_seleccionado])
 st.markdown(textos[tema_seleccionado])
 
 try:
-    #if proceso:
     if 'Ejercicio' in tema_seleccionado:
         st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023 usando Inteligencia Artificial.')
-        #st.subheader(proceso)
         st.markdown('accede al notebook por el siguiente enlace: ')
         
 except:
