@@ -69,8 +69,8 @@ tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
 #    proceso = sidebar.selectbox('Selecciona un proceso', procesos)
 
 ## Principal:
-st.title('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
-st.header('Introducción a la Ciencia de Datos e Inteligencia Artificial') 
+st.header('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
+st.title('Introducción a la Ciencia de Datos e Inteligencia Artificial') 
 st.subheader(tema_seleccionado)
 st.image(imagenes[tema_seleccionado])
 st.markdown(textos[tema_seleccionado])
