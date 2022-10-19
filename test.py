@@ -16,8 +16,8 @@ tema = ['Introducción: ¿Qué significan estos conceptos?',
         '¿Cuáles son las técnicas de la ciencia de datos?',
         '¿Cuál es el proceso de la ciencia de datos?',
         '¿Qué herramientas usa un científico de datos?',
-        'Ejercicio 1.',
-        'Ejercicio 2.']
+        'Ejercicio 1.']
+        #'Ejercicio 2.']
 
 procesos = ['Cargar Base de Datos',
             'Análisis Exploratorio de Datos - EDA',
@@ -33,7 +33,7 @@ textos['¿Cuáles son las técnicas de la ciencia de datos?'] = """La forma habi
 textos['¿Cuál es el proceso de la ciencia de datos?'] = """Una vez definido el problema, el científico de datos puede resolverlo con el proceso que consiste en obtener, depurar, explorar y modelar datos e interpretar los resultados.  \n  \n  1. **Obtener datos:** Los datos pueden ser preexistentes, recién adquiridos o un repositorio descargable de Internet. Los científicos de datos pueden extraerlos de las bases de datos internas o externas, del software CRM de la empresa, de los registros del servidor web, de las redes sociales o adquirirlos de terceros de confianza.  \n  \n  2. **Depurar datos:** La depuración o limpieza de datos consiste en el proceso de normalizarlos (estandarizarlos) según un formato determinado. Incluye la gestión de los datos que faltan, la corrección de errores en estos y la eliminación de datos atípicos. Algunos ejemplos de la depuración de datos son:  \n>> * Cambiar todos los valores de fecha a un formato estándar común.  \n>> * Corregir las faltas de ortografía o los espacios adicionales.  \n>> * Corregir inexactitudes matemáticas o eliminar comas y puntos de números, definiendo correctamente la notación de decimales, etc.  \n  \n  3. **Explorar datos:** La exploración de datos es un análisis preliminar de estos que se utiliza para planificar otras estrategias para su modelado. Los científicos de datos obtienen una comprensión inicial de los datos mediante estadísticas descriptivas y herramientas de visualización de los mismos. A continuación, exploran los datos para identificar patrones interesantes que se puedan estudiar o utilizar.  \n  \n  4. **Modelar datos:** El software y los algoritmos de machine learning se utilizan para obtener información más profunda, predecir resultados y prescribir el mejor curso de acción. Las técnicas de machine learning, como la asociación, clasificación y agrupación, se aplican al conjunto de datos de entrenamiento. El modelo podría probarse con datos de prueba predeterminados para evaluar la precisión de los resultados. El modelo de datos se puede ajustar muchas veces para mejorar los resultados.  \n  \n  5. **Interpretar los resultados:** Los científicos de datos trabajan junto a los analistas y las empresas para convertir la información de datos en acción. Hacen diagramas, gráficos y tablas para representar tendencias y predicciones. La síntesis de datos ayuda a las partes interesadas a comprender y aplicar con eficacia los resultados."""
 textos['¿Qué herramientas usa un científico de datos?'] = """**Lenguajes de Programación:** Dentro del trabajo de la **Ciencia de Datos** relacionado con la construcción de modelos para el análisis de los datos, se destacan dos herramientas: **R y Python**. Se trata de lenguajes de programación relativamente recientes y fáciles de asimilar por personas que se desempeñen en cualquier área, es decir que no son lenguajes diseñados estrictamente para personas con experiencia en programación.  \n  \n> **R:** Considerado el estándar entre los lenguajes de programación estadística. **R** es un entorno de software libre dedicado al cálculo estadístico y los gráficos. **R** es de acceso gratuito y cualquiera puede instalar, utilizar y actualizar. Es un lenguaje de alto rendimiento, que ayuda a manejar grandes paquetes de datos, lo que lo convierte en una gran herramienta para el manejo de Big Data. También es ideal para simulaciones intensas, que consumen muchos recursos.   \n  \n>  **Python:** Es otro lenguaje de programación open source, flexible y sencillo. Un programador trabajando con **Python** debe escribir menos código gracias a sus características “amigables” para principiantes, como la legibilidad del código, una sintaxis simplificada y la facilidad de implementación. Al igual que con R, la programación en Python encuentra acomodo en una gran variedad de industrias y aplicaciones. **Python** está detrás del buscador de Google, así como de YouTube, entre otros. Instituciones como la NASA, IBM y Mozilla también dependen en gran medida de **Python**. Esta herramienta también es de uso gratuito, lo que beneficia a startups, empresas y entidades públicas.   \n  \n  **Herramientas de Visualización de Datos:**    \n  \n>  **Power BI:** es una aplicación de visualización de Microsoft. Puede tomar datos de diversas fuentes, como archivos de texto, bases de datos, hojas de cálculo y muchos servicios de datos en línea, incluidos Facebook y Twitter, y usarlos para generar cuadros de mando llenos de gráficos, tablas, mapas y muchos otros objetos de visualización. Los objetos del tablero son interactivos, lo que significa que puede hacer clic en una serie de datos en un gráfico para seleccionarla y usarla como filtro para los otros objetos en el tablero.    \n  \n>  **Tableau:** es otra opción para crear gráficos interactivos a partir de una combinación de múltiples fuentes de datos. También ofrece una versión de escritorio, una versión web y un servicio en línea para compartir los paneles que cree. Es fácil de usar para personas sin conocimientos técnicos, lo que se mejora a través de muchos tutoriales y videos en línea.   \n  \n  **Herramientas para Desarrollar Proyectos:**    \n  \n>  **Jupyter Notebooks:** Proporcionan un entorno donde puede registrar código, ejecutar código, ver resultados, visualizar datos y ver resultados de los modelos. Estas características lo convierten en una herramienta conveniente para realizar flujos de trabajo de ciencia de datos de extremo a extremo, que se pueden utilizar para la limpieza de datos, el modelado estadístico, la creación y capacitación de modelos de aprendizaje automático, la visualización de datos y muchos otros propósitos.    \n  \n>  **Google Colab:** es un producto de Google Research. Permite a cualquier usuario escribir y ejecutar código arbitrario de Python en el navegador de internet.Colab, también conocido como "Colaboratory", se caracteriza por las siguientes ventajas: No requiere configuración, ofrece acceso a GPUs sin costo adicional, y permite compartir contenido fácilmente."""
 textos['Ejercicio 1.'] = """Para este ejercicio utilizamos algunas de las bases de datos disponibles en la página de **Datos Abiertos Bogotá:** https://datosabiertos.bogota.gov.co/"""
-textos['Ejercicio 2.'] = """Para este ejercicio utilizamos algunas de las bases de datos disponibles en la página de **Datos Abiertos Bogotá:** https://datosabiertos.bogota.gov.co/"""
+#textos['Ejercicio 2.'] = """Para este ejercicio utilizamos algunas de las bases de datos disponibles en la página de **Datos Abiertos Bogotá:** https://datosabiertos.bogota.gov.co/"""
 
 # Imágenes:
 imagenes = dict()
@@ -43,7 +43,7 @@ imagenes['¿Cuáles son las técnicas de la ciencia de datos?'] = 'Images//algor
 imagenes['¿Cuál es el proceso de la ciencia de datos?'] = 'Images//proceso.jpeg'
 imagenes['¿Qué herramientas usa un científico de datos?'] = 'Images//herramientas.png'
 imagenes['Ejercicio 1.'] = 'Images//datos_abiertos.png'
-imagenes['Ejercicio 2.'] = 'Images//datos_abiertos.png'
+#imagenes['Ejercicio 2.'] = 'Images//datos_abiertos.png'
 
 # Fuentes:
 fuentes = dict()
@@ -53,7 +53,7 @@ fuentes['¿Cuáles son las técnicas de la ciencia de datos?'] = """  \n  \n  Fu
 fuentes['¿Cuál es el proceso de la ciencia de datos?'] = """  \n  \n  Fuente: https://aws.amazon.com/es/what-is/data-science/"""
 fuentes['¿Qué herramientas usa un científico de datos?'] = """  \n  \n  Fuentes:  \n  \n  https://medium.com/@goodrebels/las-herramientas-de-trabajo-del-cient%C3%ADfico-de-datos-6e16c8c71415  \n  \n  https://geekflare.com/es/data-science-tools/  \n  \n  https://www.ceupe.mx/blog/conoces-jupyter-notebook.html  \n  \n  https://colab.research.google.com/"""
 fuentes['Ejercicio 1.'] = """  \n  \n  Fuente de los datos: https://datosabiertos.bogota.gov.co/"""
-fuentes['Ejercicio 2.'] = """  \n  \n  Fuente de los datos: https://datosabiertos.bogota.gov.co/"""
+#fuentes['Ejercicio 2.'] = """  \n  \n  Fuente de los datos: https://datosabiertos.bogota.gov.co/"""
 
 # Ejercicios:
 
@@ -65,8 +65,8 @@ sidebar.image('Images//logo_sds.png')
 sidebar.header('X Jornada Distrital de Epidemiología y Salud Pública')
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
 
-if 'Ejercicio' in tema_seleccionado:
-    proceso = sidebar.selectbox('Selecciona un proceso', procesos)
+#if 'Ejercicio' in tema_seleccionado:
+#    proceso = sidebar.selectbox('Selecciona un proceso', procesos)
 
 ## Principal:
 st.header('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
@@ -76,9 +76,11 @@ st.image(imagenes[tema_seleccionado])
 st.markdown(textos[tema_seleccionado])
 
 try:
-    if proceso:
+    #if proceso:
+    if 'Ejercicio' in tema_seleccionado:
         st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023 usando Inteligencia Artificial.')
-        st.subheader(proceso)
+        #st.subheader(proceso)
+        st.markdown('accede al notebook por el siguiente enlace: ')
         
 except:
     pass
