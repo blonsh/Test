@@ -55,7 +55,7 @@ sidebar = st.sidebar
 sidebar.image('Images//logo_sds.png')
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
 sidebar.markdown('Accede a la aplicación desde el celular escaneando el código qr:')
-sidebar.image('Images//qrcode.png', width=50)
+sidebar.image('Images//qrcode.png', width=250)
 
 ## Principal:
 st.header('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
@@ -67,7 +67,7 @@ st.markdown(textos[tema_seleccionado])
 try:
     if 'Ejercicio' in tema_seleccionado:
         st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023 usando Inteligencia Artificial.')
-        st.markdown('accede al notebook por el siguiente enlace: ')
+        st.markdown('Accede al notebook por el siguiente enlace: ')
         
 except:
     pass
