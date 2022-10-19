@@ -1,0 +1,901 @@
+Tema Queja;Año;Área;Número de quejas;Proporción
+Contaminación por aire;2013;Usaquén;3;3,1
+Contaminación por aire;2013;Chapinero;4;4,2
+Contaminación por aire;2013;Santa Fe;0;0
+Contaminación por aire;2013;San Cristóbal;0;0
+Contaminación por aire;2013;Usme;0;0
+Contaminación por aire;2013;Tunjuelito;7;7,3
+Contaminación por aire;2013;Bosa;17;17,7
+Contaminación por aire;2013;Kennedy;19;19,8
+Contaminación por aire;2013;Fontibón;5;5,2
+Contaminación por aire;2013;Engativá;10;10,4
+Contaminación por aire;2013;Suba;5;5,2
+Contaminación por aire;2013;Barrios Unidos;3;3,1
+Contaminación por aire;2013;Teusaquillo;3;3,1
+Contaminación por aire;2013;Los Mártires;0;0
+Contaminación por aire;2013;Antonio Nariño;0;0
+Contaminación por aire;2013;Puente Aranda;6;6,3
+Contaminación por aire;2013;La Candelaria;0;0
+Contaminación por aire;2013;Rafael Uribe Uribe;2;2,1
+Contaminación por aire;2013;Ciudad Bolívar;12;12,5
+Contaminación por aire;2013;Distrito;96;100
+Humo de tabaco;2013;Usaquén;5;13,5
+Humo de tabaco;2013;Chapinero;6;16,2
+Humo de tabaco;2013;Santa Fe;1;2,7
+Humo de tabaco;2013;San Cristóbal;0;0
+Humo de tabaco;2013;Usme;0;0
+Humo de tabaco;2013;Tunjuelito;2;5,4
+Humo de tabaco;2013;Bosa;2;5,4
+Humo de tabaco;2013;Kennedy;3;8,1
+Humo de tabaco;2013;Fontibón;4;10,8
+Humo de tabaco;2013;Engativá;2;5,4
+Humo de tabaco;2013;Suba;2;5,4
+Humo de tabaco;2013;Barrios Unidos;1;2,7
+Humo de tabaco;2013;Teusaquillo;2;5,4
+Humo de tabaco;2013;Los Mártires;2;5,4
+Humo de tabaco;2013;Antonio Nariño;0;0
+Humo de tabaco;2013;Puente Aranda;1;2,7
+Humo de tabaco;2013;La Candelaria;1;2,7
+Humo de tabaco;2013;Rafael Uribe Uribe;3;8,1
+Humo de tabaco;2013;Ciudad Bolívar;0;0
+Humo de tabaco;2013;Distrito;37;100
+Olores ofensivos;2013;Usaquén;0;0
+Olores ofensivos;2013;Chapinero;3;10,7
+Olores ofensivos;2013;Santa Fe;0;0
+Olores ofensivos;2013;San Cristóbal;0;0
+Olores ofensivos;2013;Usme;0;0
+Olores ofensivos;2013;Tunjuelito;2;7,1
+Olores ofensivos;2013;Bosa;9;32,1
+Olores ofensivos;2013;Kennedy;5;17,9
+Olores ofensivos;2013;Fontibón;3;10,7
+Olores ofensivos;2013;Engativá;2;7,1
+Olores ofensivos;2013;Suba;0;0
+Olores ofensivos;2013;Barrios Unidos;1;3,6
+Olores ofensivos;2013;Teusaquillo;3;10,7
+Olores ofensivos;2013;Los Mártires;0;0
+Olores ofensivos;2013;Antonio Nariño;0;0
+Olores ofensivos;2013;Puente Aranda;0;0
+Olores ofensivos;2013;La Candelaria;0;0
+Olores ofensivos;2013;Rafael Uribe Uribe;0;0
+Olores ofensivos;2013;Ciudad Bolívar;0;0
+Olores ofensivos;2013;Distrito;28;100
+Contaminación por ruido;2013;Usaquén;8;9,5
+Contaminación por ruido;2013;Chapinero;4;4,8
+Contaminación por ruido;2013;Santa Fe;2;2,4
+Contaminación por ruido;2013;San Cristóbal;1;1,2
+Contaminación por ruido;2013;Usme;1;1,2
+Contaminación por ruido;2013;Tunjuelito;1;1,2
+Contaminación por ruido;2013;Bosa;9;10,7
+Contaminación por ruido;2013;Kennedy;18;21,4
+Contaminación por ruido;2013;Fontibón;8;9,5
+Contaminación por ruido;2013;Engativá;7;8,3
+Contaminación por ruido;2013;Suba;3;3,6
+Contaminación por ruido;2013;Barrios Unidos;4;4,8
+Contaminación por ruido;2013;Teusaquillo;2;2,4
+Contaminación por ruido;2013;Los Mártires;6;7,1
+Contaminación por ruido;2013;Antonio Nariño;0;0
+Contaminación por ruido;2013;Puente Aranda;4;4,8
+Contaminación por ruido;2013;La Candelaria;0;0
+Contaminación por ruido;2013;Rafael Uribe Uribe;6;7,1
+Contaminación por ruido;2013;Ciudad Bolívar;0;0
+Contaminación por ruido;2013;Distrito;84;100
+Radiaciones electromagnéticas;2013;Usaquén;15;19,2
+Radiaciones electromagnéticas;2013;Chapinero;8;10,3
+Radiaciones electromagnéticas;2013;Santa Fe;2;2,6
+Radiaciones electromagnéticas;2013;San Cristóbal;2;2,6
+Radiaciones electromagnéticas;2013;Usme;1;1,3
+Radiaciones electromagnéticas;2013;Tunjuelito;1;1,3
+Radiaciones electromagnéticas;2013;Bosa;0;0
+Radiaciones electromagnéticas;2013;Kennedy;8;10,3
+Radiaciones electromagnéticas;2013;Fontibón;4;5,1
+Radiaciones electromagnéticas;2013;Engativá;11;14,1
+Radiaciones electromagnéticas;2013;Suba;10;12,8
+Radiaciones electromagnéticas;2013;Barrios Unidos;0;0
+Radiaciones electromagnéticas;2013;Teusaquillo;5;6,4
+Radiaciones electromagnéticas;2013;Los Mártires;1;1,3
+Radiaciones electromagnéticas;2013;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2013;Puente Aranda;2;2,6
+Radiaciones electromagnéticas;2013;La Candelaria;5;6,4
+Radiaciones electromagnéticas;2013;Rafael Uribe Uribe;3;3,8
+Radiaciones electromagnéticas;2013;Ciudad Bolívar;0;0
+Radiaciones electromagnéticas;2013;Distrito;78;100
+Contaminación por aire;2014;Usaquén;4;4,5
+Contaminación por aire;2014;Chapinero;4;4,5
+Contaminación por aire;2014;Santa Fe;3;3,4
+Contaminación por aire;2014;San Cristóbal;2;2,3
+Contaminación por aire;2014;Usme;0;0
+Contaminación por aire;2014;Tunjuelito;2;2,3
+Contaminación por aire;2014;Bosa;14;15,9
+Contaminación por aire;2014;Kennedy;18;20,5
+Contaminación por aire;2014;Fontibón;0;0
+Contaminación por aire;2014;Engativá;5;5,7
+Contaminación por aire;2014;Suba;3;3,4
+Contaminación por aire;2014;Barrios Unidos;2;2,3
+Contaminación por aire;2014;Teusaquillo;3;3,4
+Contaminación por aire;2014;Los Mártires;3;3,4
+Contaminación por aire;2014;Antonio Nariño;3;3,4
+Contaminación por aire;2014;Puente Aranda;9;10,2
+Contaminación por aire;2014;La Candelaria;2;2,3
+Contaminación por aire;2014;Rafael Uribe Uribe;0;0
+Contaminación por aire;2014;Ciudad Bolívar;11;12,5
+Contaminación por aire;2014;Distrito;88;100
+Humo de tabaco;2014;Usaquén;3;7,3
+Humo de tabaco;2014;Chapinero;5;12,2
+Humo de tabaco;2014;Santa Fe;4;9,8
+Humo de tabaco;2014;San Cristóbal;1;2,4
+Humo de tabaco;2014;Usme;0;0
+Humo de tabaco;2014;Tunjuelito;1;2,4
+Humo de tabaco;2014;Bosa;0;0
+Humo de tabaco;2014;Kennedy;3;7,3
+Humo de tabaco;2014;Fontibón;2;4,9
+Humo de tabaco;2014;Engativá;3;7,3
+Humo de tabaco;2014;Suba;3;7,3
+Humo de tabaco;2014;Barrios Unidos;2;4,9
+Humo de tabaco;2014;Teusaquillo;4;9,8
+Humo de tabaco;2014;Los Mártires;2;4,9
+Humo de tabaco;2014;Antonio Nariño;2;4,9
+Humo de tabaco;2014;Puente Aranda;2;4,9
+Humo de tabaco;2014;La Candelaria;1;2,4
+Humo de tabaco;2014;Rafael Uribe Uribe;3;7,3
+Humo de tabaco;2014;Ciudad Bolívar;0;0
+Humo de tabaco;2014;Distrito;41;100
+Olores ofensivos;2014;Usaquén;3;2,3
+Olores ofensivos;2014;Chapinero;9;6,9
+Olores ofensivos;2014;Santa Fe;3;2,3
+Olores ofensivos;2014;San Cristóbal;2;1,5
+Olores ofensivos;2014;Usme;0;0
+Olores ofensivos;2014;Tunjuelito;6;4,6
+Olores ofensivos;2014;Bosa;41;31,5
+Olores ofensivos;2014;Kennedy;12;9,2
+Olores ofensivos;2014;Fontibón;5;3,8
+Olores ofensivos;2014;Engativá;6;4,6
+Olores ofensivos;2014;Suba;6;4,6
+Olores ofensivos;2014;Barrios Unidos;14;10,8
+Olores ofensivos;2014;Teusaquillo;6;4,6
+Olores ofensivos;2014;Los Mártires;1;0,8
+Olores ofensivos;2014;Antonio Nariño;3;2,3
+Olores ofensivos;2014;Puente Aranda;0;0
+Olores ofensivos;2014;La Candelaria;0;0
+Olores ofensivos;2014;Rafael Uribe Uribe;5;3,8
+Olores ofensivos;2014;Ciudad Bolívar;8;6,2
+Olores ofensivos;2014;Distrito;130;100
+Contaminación por ruido;2014;Usaquén;8;7,6
+Contaminación por ruido;2014;Chapinero;22;21
+Contaminación por ruido;2014;Santa Fe;4;3,8
+Contaminación por ruido;2014;San Cristóbal;5;4,8
+Contaminación por ruido;2014;Usme;0;0
+Contaminación por ruido;2014;Tunjuelito;3;2,9
+Contaminación por ruido;2014;Bosa;7;6,7
+Contaminación por ruido;2014;Kennedy;14;13,3
+Contaminación por ruido;2014;Fontibón;3;2,9
+Contaminación por ruido;2014;Engativá;6;5,7
+Contaminación por ruido;2014;Suba;2;1,9
+Contaminación por ruido;2014;Barrios Unidos;9;8,6
+Contaminación por ruido;2014;Teusaquillo;8;7,6
+Contaminación por ruido;2014;Los Mártires;0;0
+Contaminación por ruido;2014;Antonio Nariño;2;1,9
+Contaminación por ruido;2014;Puente Aranda;6;5,7
+Contaminación por ruido;2014;La Candelaria;2;1,9
+Contaminación por ruido;2014;Rafael Uribe Uribe;3;2,9
+Contaminación por ruido;2014;Ciudad Bolívar;1;1
+Contaminación por ruido;2014;Distrito;105;100
+Radiaciones electromagnéticas;2014;Usaquén;10;15,6
+Radiaciones electromagnéticas;2014;Chapinero;3;4,7
+Radiaciones electromagnéticas;2014;Santa Fe;2;3,1
+Radiaciones electromagnéticas;2014;San Cristóbal;0;0
+Radiaciones electromagnéticas;2014;Usme;0;0
+Radiaciones electromagnéticas;2014;Tunjuelito;0;0
+Radiaciones electromagnéticas;2014;Bosa;3;4,7
+Radiaciones electromagnéticas;2014;Kennedy;2;3,1
+Radiaciones electromagnéticas;2014;Fontibón;8;12,5
+Radiaciones electromagnéticas;2014;Engativá;6;9,4
+Radiaciones electromagnéticas;2014;Suba;17;26,6
+Radiaciones electromagnéticas;2014;Barrios Unidos;3;4,7
+Radiaciones electromagnéticas;2014;Teusaquillo;4;6,3
+Radiaciones electromagnéticas;2014;Los Mártires;0;0
+Radiaciones electromagnéticas;2014;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2014;Puente Aranda;1;1,6
+Radiaciones electromagnéticas;2014;La Candelaria;1;1,6
+Radiaciones electromagnéticas;2014;Rafael Uribe Uribe;3;4,7
+Radiaciones electromagnéticas;2014;Ciudad Bolívar;1;1,6
+Radiaciones electromagnéticas;2014;Distrito;64;100
+Contaminación por aire;2015;Usaquén;3;3,3
+Contaminación por aire;2015;Chapinero;9;9,9
+Contaminación por aire;2015;Santa Fe;3;3,3
+Contaminación por aire;2015;San Cristóbal;2;2,2
+Contaminación por aire;2015;Usme;1;1,1
+Contaminación por aire;2015;Tunjuelito;1;1,1
+Contaminación por aire;2015;Bosa;20;22
+Contaminación por aire;2015;Kennedy;9;9,9
+Contaminación por aire;2015;Fontibón;2;2,2
+Contaminación por aire;2015;Engativá;2;2,2
+Contaminación por aire;2015;Suba;8;8,8
+Contaminación por aire;2015;Barrios Unidos;4;4,4
+Contaminación por aire;2015;Teusaquillo;7;7,7
+Contaminación por aire;2015;Los Mártires;3;3,3
+Contaminación por aire;2015;Antonio Nariño;1;1,1
+Contaminación por aire;2015;Puente Aranda;10;11
+Contaminación por aire;2015;La Candelaria;0;0
+Contaminación por aire;2015;Rafael Uribe Uribe;2;2,2
+Contaminación por aire;2015;Ciudad Bolívar;4;4,4
+Contaminación por aire;2015;Distrito;91;100
+Humo de tabaco;2015;Usaquén;5;13,5
+Humo de tabaco;2015;Chapinero;2;5,4
+Humo de tabaco;2015;Santa Fe;1;2,7
+Humo de tabaco;2015;San Cristóbal;0;0
+Humo de tabaco;2015;Usme;0;0
+Humo de tabaco;2015;Tunjuelito;1;2,7
+Humo de tabaco;2015;Bosa;2;5,4
+Humo de tabaco;2015;Kennedy;0;0
+Humo de tabaco;2015;Fontibón;2;5,4
+Humo de tabaco;2015;Engativá;3;8,1
+Humo de tabaco;2015;Suba;7;18,9
+Humo de tabaco;2015;Barrios Unidos;4;10,8
+Humo de tabaco;2015;Teusaquillo;5;13,5
+Humo de tabaco;2015;Los Mártires;2;5,4
+Humo de tabaco;2015;Antonio Nariño;0;0
+Humo de tabaco;2015;Puente Aranda;2;5,4
+Humo de tabaco;2015;La Candelaria;0;0
+Humo de tabaco;2015;Rafael Uribe Uribe;1;2,7
+Humo de tabaco;2015;Ciudad Bolívar;0;0
+Humo de tabaco;2015;Distrito;37;100
+Olores ofensivos;2015;Usaquén;4;2,7
+Olores ofensivos;2015;Chapinero;20;13,3
+Olores ofensivos;2015;Santa Fe;4;2,7
+Olores ofensivos;2015;San Cristóbal;2;1,3
+Olores ofensivos;2015;Usme;1;0,7
+Olores ofensivos;2015;Tunjuelito;4;2,7
+Olores ofensivos;2015;Bosa;59;39,3
+Olores ofensivos;2015;Kennedy;2;1,3
+Olores ofensivos;2015;Fontibón;7;4,7
+Olores ofensivos;2015;Engativá;3;2
+Olores ofensivos;2015;Suba;1;0,7
+Olores ofensivos;2015;Barrios Unidos;10;6,7
+Olores ofensivos;2015;Teusaquillo;16;10,7
+Olores ofensivos;2015;Los Mártires;5;3,3
+Olores ofensivos;2015;Antonio Nariño;5;3,3
+Olores ofensivos;2015;Puente Aranda;1;0,7
+Olores ofensivos;2015;La Candelaria;1;0,7
+Olores ofensivos;2015;Rafael Uribe Uribe;4;2,7
+Olores ofensivos;2015;Ciudad Bolívar;1;0,7
+Olores ofensivos;2015;Distrito;150;100
+Contaminación por ruido;2015;Usaquén;10;7,4
+Contaminación por ruido;2015;Chapinero;28;20,6
+Contaminación por ruido;2015;Santa Fe;4;2,9
+Contaminación por ruido;2015;San Cristóbal;5;3,7
+Contaminación por ruido;2015;Usme;3;2,2
+Contaminación por ruido;2015;Tunjuelito;6;4,4
+Contaminación por ruido;2015;Bosa;17;12,5
+Contaminación por ruido;2015;Kennedy;9;6,6
+Contaminación por ruido;2015;Fontibón;8;5,9
+Contaminación por ruido;2015;Engativá;5;3,7
+Contaminación por ruido;2015;Suba;2;1,5
+Contaminación por ruido;2015;Barrios Unidos;6;4,4
+Contaminación por ruido;2015;Teusaquillo;9;6,6
+Contaminación por ruido;2015;Los Mártires;3;2,2
+Contaminación por ruido;2015;Antonio Nariño;8;5,9
+Contaminación por ruido;2015;Puente Aranda;4;2,9
+Contaminación por ruido;2015;La Candelaria;0;0
+Contaminación por ruido;2015;Rafael Uribe Uribe;5;3,7
+Contaminación por ruido;2015;Ciudad Bolívar;4;2,9
+Contaminación por ruido;2015;Distrito;136;100
+Radiaciones electromagnéticas;2015;Usaquén;3;3,8
+Radiaciones electromagnéticas;2015;Chapinero;4;5,1
+Radiaciones electromagnéticas;2015;Santa Fe;0;0
+Radiaciones electromagnéticas;2015;San Cristóbal;2;2,5
+Radiaciones electromagnéticas;2015;Usme;3;3,8
+Radiaciones electromagnéticas;2015;Tunjuelito;0;0
+Radiaciones electromagnéticas;2015;Bosa;8;10,1
+Radiaciones electromagnéticas;2015;Kennedy;12;15,2
+Radiaciones electromagnéticas;2015;Fontibón;5;6,3
+Radiaciones electromagnéticas;2015;Engativá;8;10,1
+Radiaciones electromagnéticas;2015;Suba;15;19
+Radiaciones electromagnéticas;2015;Barrios Unidos;1;1,3
+Radiaciones electromagnéticas;2015;Teusaquillo;8;10,1
+Radiaciones electromagnéticas;2015;Los Mártires;0;0
+Radiaciones electromagnéticas;2015;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2015;Puente Aranda;5;6,3
+Radiaciones electromagnéticas;2015;La Candelaria;1;1,3
+Radiaciones electromagnéticas;2015;Rafael Uribe Uribe;1;1,3
+Radiaciones electromagnéticas;2015;Ciudad Bolívar;3;3,8
+Radiaciones electromagnéticas;2015;Distrito;79;100
+Contaminación por aire;2016;Usaquén;2;2,8
+Contaminación por aire;2016;Chapinero;7;9,7
+Contaminación por aire;2016;Santa Fe;2;2,8
+Contaminación por aire;2016;San Cristóbal;5;6,9
+Contaminación por aire;2016;Usme;1;1,4
+Contaminación por aire;2016;Tunjuelito;0;0
+Contaminación por aire;2016;Bosa;17;23,6
+Contaminación por aire;2016;Kennedy;3;4,2
+Contaminación por aire;2016;Fontibón;1;1,4
+Contaminación por aire;2016;Engativá;7;9,7
+Contaminación por aire;2016;Suba;5;6,9
+Contaminación por aire;2016;Barrios Unidos;3;4,2
+Contaminación por aire;2016;Teusaquillo;3;4,2
+Contaminación por aire;2016;Los Mártires;1;1,4
+Contaminación por aire;2016;Antonio Nariño;0;0
+Contaminación por aire;2016;Puente Aranda;2;2,8
+Contaminación por aire;2016;La Candelaria;0;0
+Contaminación por aire;2016;Rafael Uribe Uribe;6;8,3
+Contaminación por aire;2016;Ciudad Bolívar;7;9,7
+Contaminación por aire;2016;Distrito;72;100
+Humo de tabaco;2016;Usaquén;5;15,2
+Humo de tabaco;2016;Chapinero;1;3
+Humo de tabaco;2016;Santa Fe;5;15,2
+Humo de tabaco;2016;San Cristóbal;0;0
+Humo de tabaco;2016;Usme;1;3
+Humo de tabaco;2016;Tunjuelito;1;3
+Humo de tabaco;2016;Bosa;3;9,1
+Humo de tabaco;2016;Kennedy;1;3
+Humo de tabaco;2016;Fontibón;3;9,1
+Humo de tabaco;2016;Engativá;1;3
+Humo de tabaco;2016;Suba;6;18,2
+Humo de tabaco;2016;Barrios Unidos;1;3
+Humo de tabaco;2016;Teusaquillo;2;6,1
+Humo de tabaco;2016;Los Mártires;1;3
+Humo de tabaco;2016;Antonio Nariño;2;6,1
+Humo de tabaco;2016;Puente Aranda;0;0
+Humo de tabaco;2016;La Candelaria;0;0
+Humo de tabaco;2016;Rafael Uribe Uribe;0;0
+Humo de tabaco;2016;Ciudad Bolívar;0;0
+Humo de tabaco;2016;Distrito;33;100
+Olores ofensivos;2016;Usaquén;0;0
+Olores ofensivos;2016;Chapinero;14;11
+Olores ofensivos;2016;Santa Fe;10;7,9
+Olores ofensivos;2016;San Cristóbal;1;0,8
+Olores ofensivos;2016;Usme;6;4,7
+Olores ofensivos;2016;Tunjuelito;7;5,5
+Olores ofensivos;2016;Bosa;27;21,3
+Olores ofensivos;2016;Kennedy;4;3,1
+Olores ofensivos;2016;Fontibón;5;3,9
+Olores ofensivos;2016;Engativá;14;11
+Olores ofensivos;2016;Suba;6;4,7
+Olores ofensivos;2016;Barrios Unidos;13;10,2
+Olores ofensivos;2016;Teusaquillo;5;3,9
+Olores ofensivos;2016;Los Mártires;3;2,4
+Olores ofensivos;2016;Antonio Nariño;2;1,6
+Olores ofensivos;2016;Puente Aranda;1;0,8
+Olores ofensivos;2016;La Candelaria;2;1,6
+Olores ofensivos;2016;Rafael Uribe Uribe;1;0,8
+Olores ofensivos;2016;Ciudad Bolívar;6;4,7
+Olores ofensivos;2016;Distrito;127;100
+Contaminación por ruido;2016;Usaquén;10;7,7
+Contaminación por ruido;2016;Chapinero;12;9,2
+Contaminación por ruido;2016;Santa Fe;4;3,1
+Contaminación por ruido;2016;San Cristóbal;4;3,1
+Contaminación por ruido;2016;Usme;6;4,6
+Contaminación por ruido;2016;Tunjuelito;3;2,3
+Contaminación por ruido;2016;Bosa;49;37,7
+Contaminación por ruido;2016;Kennedy;5;3,8
+Contaminación por ruido;2016;Fontibón;3;2,3
+Contaminación por ruido;2016;Engativá;7;5,4
+Contaminación por ruido;2016;Suba;8;6,2
+Contaminación por ruido;2016;Barrios Unidos;8;6,2
+Contaminación por ruido;2016;Teusaquillo;7;5,4
+Contaminación por ruido;2016;Los Mártires;0;0
+Contaminación por ruido;2016;Antonio Nariño;1;0,8
+Contaminación por ruido;2016;Puente Aranda;0;0
+Contaminación por ruido;2016;La Candelaria;1;0,8
+Contaminación por ruido;2016;Rafael Uribe Uribe;1;0,8
+Contaminación por ruido;2016;Ciudad Bolívar;1;0,8
+Contaminación por ruido;2016;Distrito;130;100
+Radiaciones electromagnéticas;2016;Usaquén;3;7,3
+Radiaciones electromagnéticas;2016;Chapinero;9;22
+Radiaciones electromagnéticas;2016;Santa Fe;0;0
+Radiaciones electromagnéticas;2016;San Cristóbal;0;0
+Radiaciones electromagnéticas;2016;Usme;2;4,9
+Radiaciones electromagnéticas;2016;Tunjuelito;1;2,4
+Radiaciones electromagnéticas;2016;Bosa;2;4,9
+Radiaciones electromagnéticas;2016;Kennedy;3;7,3
+Radiaciones electromagnéticas;2016;Fontibón;0;0
+Radiaciones electromagnéticas;2016;Engativá;6;14,6
+Radiaciones electromagnéticas;2016;Suba;3;7,3
+Radiaciones electromagnéticas;2016;Barrios Unidos;2;4,9
+Radiaciones electromagnéticas;2016;Teusaquillo;5;12,2
+Radiaciones electromagnéticas;2016;Los Mártires;2;4,9
+Radiaciones electromagnéticas;2016;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2016;Puente Aranda;0;0
+Radiaciones electromagnéticas;2016;La Candelaria;3;7,3
+Radiaciones electromagnéticas;2016;Rafael Uribe Uribe;0;0
+Radiaciones electromagnéticas;2016;Ciudad Bolívar;0;0
+Radiaciones electromagnéticas;2016;Distrito;41;100
+Contaminación por aire;2017;Usaquén;4;7
+Contaminación por aire;2017;Chapinero;4;7
+Contaminación por aire;2017;Santa Fe;0;0
+Contaminación por aire;2017;San Cristóbal;0;0
+Contaminación por aire;2017;Usme;3;5,3
+Contaminación por aire;2017;Tunjuelito;0;0
+Contaminación por aire;2017;Bosa;9;15,8
+Contaminación por aire;2017;Kennedy;4;7
+Contaminación por aire;2017;Fontibón;3;5,3
+Contaminación por aire;2017;Engativá;8;14
+Contaminación por aire;2017;Suba;7;12,3
+Contaminación por aire;2017;Barrios Unidos;5;8,8
+Contaminación por aire;2017;Teusaquillo;2;3,5
+Contaminación por aire;2017;Los Mártires;0;0
+Contaminación por aire;2017;Antonio Nariño;2;3,5
+Contaminación por aire;2017;Puente Aranda;1;1,8
+Contaminación por aire;2017;La Candelaria;0;0
+Contaminación por aire;2017;Rafael Uribe Uribe;1;1,8
+Contaminación por aire;2017;Ciudad Bolívar;4;7
+Contaminación por aire;2017;Distrito;57;100
+Humo de tabaco;2017;Usaquén;1;5,6
+Humo de tabaco;2017;Chapinero;2;11,1
+Humo de tabaco;2017;Santa Fe;2;11,1
+Humo de tabaco;2017;San Cristóbal;1;5,6
+Humo de tabaco;2017;Usme;0;0
+Humo de tabaco;2017;Tunjuelito;1;5,6
+Humo de tabaco;2017;Bosa;0;0
+Humo de tabaco;2017;Kennedy;0;0
+Humo de tabaco;2017;Fontibón;1;5,6
+Humo de tabaco;2017;Engativá;2;11,1
+Humo de tabaco;2017;Suba;2;11,1
+Humo de tabaco;2017;Barrios Unidos;0;0
+Humo de tabaco;2017;Teusaquillo;0;0
+Humo de tabaco;2017;Los Mártires;0;0
+Humo de tabaco;2017;Antonio Nariño;3;16,7
+Humo de tabaco;2017;Puente Aranda;1;5,6
+Humo de tabaco;2017;La Candelaria;2;11,1
+Humo de tabaco;2017;Rafael Uribe Uribe;0;0
+Humo de tabaco;2017;Ciudad Bolívar;0;0
+Humo de tabaco;2017;Distrito;18;100
+Olores ofensivos;2017;Usaquén;11;8,9
+Olores ofensivos;2017;Chapinero;5;4
+Olores ofensivos;2017;Santa Fe;3;2,4
+Olores ofensivos;2017;San Cristóbal;4;3,2
+Olores ofensivos;2017;Usme;5;4
+Olores ofensivos;2017;Tunjuelito;6;4,8
+Olores ofensivos;2017;Bosa;13;10,5
+Olores ofensivos;2017;Kennedy;7;5,6
+Olores ofensivos;2017;Fontibón;6;4,8
+Olores ofensivos;2017;Engativá;13;10,5
+Olores ofensivos;2017;Suba;20;16,1
+Olores ofensivos;2017;Barrios Unidos;8;6,5
+Olores ofensivos;2017;Teusaquillo;1;0,8
+Olores ofensivos;2017;Los Mártires;4;3,2
+Olores ofensivos;2017;Antonio Nariño;3;2,4
+Olores ofensivos;2017;Puente Aranda;2;1,6
+Olores ofensivos;2017;La Candelaria;1;0,8
+Olores ofensivos;2017;Rafael Uribe Uribe;5;4
+Olores ofensivos;2017;Ciudad Bolívar;7;5,6
+Olores ofensivos;2017;Distrito;124;100
+Contaminación por ruido;2017;Usaquén;5;4,7
+Contaminación por ruido;2017;Chapinero;1;0,9
+Contaminación por ruido;2017;Santa Fe;2;1,9
+Contaminación por ruido;2017;San Cristóbal;4;3,8
+Contaminación por ruido;2017;Usme;1;0,9
+Contaminación por ruido;2017;Tunjuelito;0;0
+Contaminación por ruido;2017;Bosa;47;44,3
+Contaminación por ruido;2017;Kennedy;8;7,5
+Contaminación por ruido;2017;Fontibón;2;1,9
+Contaminación por ruido;2017;Engativá;9;8,5
+Contaminación por ruido;2017;Suba;6;5,7
+Contaminación por ruido;2017;Barrios Unidos;6;5,7
+Contaminación por ruido;2017;Teusaquillo;1;0,9
+Contaminación por ruido;2017;Los Mártires;0;0
+Contaminación por ruido;2017;Antonio Nariño;1;0,9
+Contaminación por ruido;2017;Puente Aranda;3;2,8
+Contaminación por ruido;2017;La Candelaria;2;1,9
+Contaminación por ruido;2017;Rafael Uribe Uribe;6;5,7
+Contaminación por ruido;2017;Ciudad Bolívar;2;1,9
+Contaminación por ruido;2017;Distrito;106;100
+Radiaciones electromagnéticas;2017;Usaquén;2;20
+Radiaciones electromagnéticas;2017;Chapinero;1;10
+Radiaciones electromagnéticas;2017;Santa Fe;0;0
+Radiaciones electromagnéticas;2017;San Cristóbal;0;0
+Radiaciones electromagnéticas;2017;Usme;0;0
+Radiaciones electromagnéticas;2017;Tunjuelito;0;0
+Radiaciones electromagnéticas;2017;Bosa;1;10
+Radiaciones electromagnéticas;2017;Kennedy;1;10
+Radiaciones electromagnéticas;2017;Fontibón;1;10
+Radiaciones electromagnéticas;2017;Engativá;1;10
+Radiaciones electromagnéticas;2017;Suba;1;10
+Radiaciones electromagnéticas;2017;Barrios Unidos;0;0
+Radiaciones electromagnéticas;2017;Teusaquillo;1;10
+Radiaciones electromagnéticas;2017;Los Mártires;0;0
+Radiaciones electromagnéticas;2017;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2017;Puente Aranda;0;0
+Radiaciones electromagnéticas;2017;La Candelaria;0;0
+Radiaciones electromagnéticas;2017;Rafael Uribe Uribe;1;10
+Radiaciones electromagnéticas;2017;Ciudad Bolívar;0;0
+Radiaciones electromagnéticas;2017;Distrito;10;100
+Contaminación por aire;2018;Usaquén;1;2,8
+Contaminación por aire;2018;Chapinero;5;13,9
+Contaminación por aire;2018;Santa Fe;1;2,8
+Contaminación por aire;2018;San Cristóbal;3;8,3
+Contaminación por aire;2018;Usme;1;2,8
+Contaminación por aire;2018;Tunjuelito;3;8,3
+Contaminación por aire;2018;Bosa;1;2,8
+Contaminación por aire;2018;Kennedy;7;19,4
+Contaminación por aire;2018;Fontibón;1;2,8
+Contaminación por aire;2018;Engativá;0;0
+Contaminación por aire;2018;Suba;3;8,3
+Contaminación por aire;2018;Barrios Unidos;1;2,8
+Contaminación por aire;2018;Teusaquillo;1;2,8
+Contaminación por aire;2018;Los Mártires;1;2,8
+Contaminación por aire;2018;Antonio Nariño;1;2,8
+Contaminación por aire;2018;Puente Aranda;1;0
+Contaminación por aire;2018;La Candelaria;0;2,8
+Contaminación por aire;2018;Rafael Uribe Uribe;1;2,8
+Contaminación por aire;2018;Ciudad Bolívar;4;11,1
+Contaminación por aire;2018;Distrito;36;100
+Humo de tabaco;2018;Usaquén;3;12
+Humo de tabaco;2018;Chapinero;2;8
+Humo de tabaco;2018;Santa Fe;1;4
+Humo de tabaco;2018;San Cristóbal;1;4
+Humo de tabaco;2018;Usme;0;0
+Humo de tabaco;2018;Tunjuelito;0;0
+Humo de tabaco;2018;Bosa;3;12
+Humo de tabaco;2018;Kennedy;1;4
+Humo de tabaco;2018;Fontibón;1;4
+Humo de tabaco;2018;Engativá;5;20
+Humo de tabaco;2018;Suba;3;12
+Humo de tabaco;2018;Barrios Unidos;2;8
+Humo de tabaco;2018;Teusaquillo;1;4
+Humo de tabaco;2018;Los Mártires;1;4
+Humo de tabaco;2018;Antonio Nariño;0;0
+Humo de tabaco;2018;Puente Aranda;1;0
+Humo de tabaco;2018;La Candelaria;0;4
+Humo de tabaco;2018;Rafael Uribe Uribe;0;0
+Humo de tabaco;2018;Ciudad Bolívar;0;0
+Humo de tabaco;2018;Distrito;25;100
+Radiaciones electromagnéticas;2018;Usaquén;3;20
+Radiaciones electromagnéticas;2018;Chapinero;2;13,3
+Radiaciones electromagnéticas;2018;Santa Fe;0;0
+Radiaciones electromagnéticas;2018;San Cristóbal;0;0
+Radiaciones electromagnéticas;2018;Usme;0;0
+Radiaciones electromagnéticas;2018;Tunjuelito;0;0
+Radiaciones electromagnéticas;2018;Bosa;0;0
+Radiaciones electromagnéticas;2018;Kennedy;0;0
+Radiaciones electromagnéticas;2018;Fontibón;2;13,3
+Radiaciones electromagnéticas;2018;Engativá;2;13,3
+Radiaciones electromagnéticas;2018;Suba;1;6,7
+Radiaciones electromagnéticas;2018;Barrios Unidos;3;20
+Radiaciones electromagnéticas;2018;Teusaquillo;2;13,3
+Radiaciones electromagnéticas;2018;Los Mártires;0;0
+Radiaciones electromagnéticas;2018;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2018;Puente Aranda;0;0
+Radiaciones electromagnéticas;2018;La Candelaria;0;0
+Radiaciones electromagnéticas;2018;Rafael Uribe Uribe;0;0
+Radiaciones electromagnéticas;2018;Ciudad Bolívar;0;0
+Radiaciones electromagnéticas;2018;Distrito;15;100
+Olores ofensivos;2018;Usaquén;14;11,6
+Olores ofensivos;2018;Chapinero;5;4,1
+Olores ofensivos;2018;Santa Fe;1;0,8
+Olores ofensivos;2018;San Cristóbal;1;0,8
+Olores ofensivos;2018;Usme;4;3,3
+Olores ofensivos;2018;Tunjuelito;4;3,3
+Olores ofensivos;2018;Bosa;11;9,1
+Olores ofensivos;2018;Kennedy;6;5
+Olores ofensivos;2018;Fontibón;5;4,1
+Olores ofensivos;2018;Engativá;20;16,5
+Olores ofensivos;2018;Suba;14;11,6
+Olores ofensivos;2018;Barrios Unidos;6;5
+Olores ofensivos;2018;Teusaquillo;5;4,1
+Olores ofensivos;2018;Los Mártires;2;1,7
+Olores ofensivos;2018;Antonio Nariño;4;3,3
+Olores ofensivos;2018;Puente Aranda;1;5,8
+Olores ofensivos;2018;La Candelaria;7;0,8
+Olores ofensivos;2018;Rafael Uribe Uribe;3;2,5
+Olores ofensivos;2018;Ciudad Bolívar;8;6,6
+Olores ofensivos;2018;Distrito;121;100
+Contaminación por ruido;2018;Usaquén;3;2,9
+Contaminación por ruido;2018;Chapinero;5;4,8
+Contaminación por ruido;2018;Santa Fe;0;0
+Contaminación por ruido;2018;San Cristóbal;2;1,9
+Contaminación por ruido;2018;Usme;4;3,8
+Contaminación por ruido;2018;Tunjuelito;4;3,8
+Contaminación por ruido;2018;Bosa;30;28,6
+Contaminación por ruido;2018;Kennedy;5;4,8
+Contaminación por ruido;2018;Fontibón;5;4,8
+Contaminación por ruido;2018;Engativá;12;11,4
+Contaminación por ruido;2018;Suba;8;7,6
+Contaminación por ruido;2018;Barrios Unidos;4;3,8
+Contaminación por ruido;2018;Teusaquillo;3;2,9
+Contaminación por ruido;2018;Los Mártires;2;1,9
+Contaminación por ruido;2018;Antonio Nariño;3;2,9
+Contaminación por ruido;2018;Puente Aranda;0;4,8
+Contaminación por ruido;2018;La Candelaria;5;0
+Contaminación por ruido;2018;Rafael Uribe Uribe;5;4,8
+Contaminación por ruido;2018;Ciudad Bolívar;5;4,8
+Contaminación por ruido;2018;Distrito;105;100
+Contaminación por aire;2019;Usaquén;3;6
+Contaminación por aire;2019;Chapinero;2;4
+Contaminación por aire;2019;Santa Fe;0;0
+Contaminación por aire;2019;San Cristóbal;2;4
+Contaminación por aire;2019;Usme;1;2
+Contaminación por aire;2019;Tunjuelito;6;12
+Contaminación por aire;2019;Bosa;4;8
+Contaminación por aire;2019;Kennedy;10;20
+Contaminación por aire;2019;Fontibón;4;8
+Contaminación por aire;2019;Engativá;4;8
+Contaminación por aire;2019;Suba;2;4
+Contaminación por aire;2019;Barrios Unidos;1;2
+Contaminación por aire;2019;Teusaquillo;1;2
+Contaminación por aire;2019;Los Mártires;0;0
+Contaminación por aire;2019;Antonio Nariño;5;10
+Contaminación por aire;2019;Puente Aranda;2;4
+Contaminación por aire;2019;La Candelaria;0;0
+Contaminación por aire;2019;Rafael Uribe Uribe;0;0
+Contaminación por aire;2019;Ciudad Bolívar;3;6
+Contaminación por aire;2019;Distrito;50;100
+Humo de tabaco;2019;Usaquén;3;11,5
+Humo de tabaco;2019;Chapinero;4;15,4
+Humo de tabaco;2019;Santa Fe;1;3,8
+Humo de tabaco;2019;San Cristóbal;1;3,8
+Humo de tabaco;2019;Usme;0;0
+Humo de tabaco;2019;Tunjuelito;0;0
+Humo de tabaco;2019;Bosa;2;7,7
+Humo de tabaco;2019;Kennedy;1;3,8
+Humo de tabaco;2019;Fontibón;4;15,4
+Humo de tabaco;2019;Engativá;6;23,1
+Humo de tabaco;2019;Suba;1;3,8
+Humo de tabaco;2019;Barrios Unidos;1;3,8
+Humo de tabaco;2019;Teusaquillo;0;0
+Humo de tabaco;2019;Los Mártires;0;0
+Humo de tabaco;2019;Antonio Nariño;0;0
+Humo de tabaco;2019;Puente Aranda;0;0
+Humo de tabaco;2019;La Candelaria;0;0
+Humo de tabaco;2019;Rafael Uribe Uribe;1;3,8
+Humo de tabaco;2019;Ciudad Bolívar;1;3,8
+Humo de tabaco;2019;Distrito;26;100
+Radiaciones electromagnéticas;2019;Usaquén;0;0
+Radiaciones electromagnéticas;2019;Chapinero;0;0
+Radiaciones electromagnéticas;2019;Santa Fe;1;8,3
+Radiaciones electromagnéticas;2019;San Cristóbal;0;0
+Radiaciones electromagnéticas;2019;Usme;0;0
+Radiaciones electromagnéticas;2019;Tunjuelito;1;8,3
+Radiaciones electromagnéticas;2019;Bosa;1;8,3
+Radiaciones electromagnéticas;2019;Kennedy;2;16,7
+Radiaciones electromagnéticas;2019;Fontibón;0;0
+Radiaciones electromagnéticas;2019;Engativá;0;0
+Radiaciones electromagnéticas;2019;Suba;2;16,7
+Radiaciones electromagnéticas;2019;Barrios Unidos;0;0
+Radiaciones electromagnéticas;2019;Teusaquillo;5;41,7
+Radiaciones electromagnéticas;2019;Los Mártires;0;0
+Radiaciones electromagnéticas;2019;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2019;Puente Aranda;0;0
+Radiaciones electromagnéticas;2019;La Candelaria;0;0
+Radiaciones electromagnéticas;2019;Rafael Uribe Uribe;0;0
+Radiaciones electromagnéticas;2019;Ciudad Bolívar;0;0
+Radiaciones electromagnéticas;2019;Distrito;12;100
+Olores ofensivos;2019;Usaquén;13;8,7
+Olores ofensivos;2019;Chapinero;4;2,7
+Olores ofensivos;2019;Santa Fe;1;0,7
+Olores ofensivos;2019;San Cristóbal;3;2
+Olores ofensivos;2019;Usme;8;5,4
+Olores ofensivos;2019;Tunjuelito;7;4,7
+Olores ofensivos;2019;Bosa;15;10,1
+Olores ofensivos;2019;Kennedy;16;10,7
+Olores ofensivos;2019;Fontibón;14;9,4
+Olores ofensivos;2019;Engativá;17;11,4
+Olores ofensivos;2019;Suba;11;7,4
+Olores ofensivos;2019;Barrios Unidos;10;6,7
+Olores ofensivos;2019;Teusaquillo;5;3,4
+Olores ofensivos;2019;Los Mártires;2;1,3
+Olores ofensivos;2019;Antonio Nariño;5;3,4
+Olores ofensivos;2019;Puente Aranda;8;5,4
+Olores ofensivos;2019;La Candelaria;1;0,7
+Olores ofensivos;2019;Rafael Uribe Uribe;3;2
+Olores ofensivos;2019;Ciudad Bolívar;6;4
+Olores ofensivos;2019;Distrito;149;100
+Contaminación por ruido;2019;Usaquén;5;3,9
+Contaminación por ruido;2019;Chapinero;8;6,2
+Contaminación por ruido;2019;Santa Fe;0;0
+Contaminación por ruido;2019;San Cristóbal;4;3,1
+Contaminación por ruido;2019;Usme;8;6,2
+Contaminación por ruido;2019;Tunjuelito;5;3,9
+Contaminación por ruido;2019;Bosa;18;14
+Contaminación por ruido;2019;Kennedy;14;10,9
+Contaminación por ruido;2019;Fontibón;7;5,4
+Contaminación por ruido;2019;Engativá;9;7
+Contaminación por ruido;2019;Suba;7;5,4
+Contaminación por ruido;2019;Barrios Unidos;4;3,1
+Contaminación por ruido;2019;Teusaquillo;5;3,9
+Contaminación por ruido;2019;Los Mártires;4;3,1
+Contaminación por ruido;2019;Antonio Nariño;7;5,4
+Contaminación por ruido;2019;Puente Aranda;8;6,2
+Contaminación por ruido;2019;La Candelaria;0;0
+Contaminación por ruido;2019;Rafael Uribe Uribe;4;3,1
+Contaminación por ruido;2019;Ciudad Bolívar;12;9,3
+Contaminación por ruido;2019;Distrito;129;100
+Contaminación por aire;2020;Usaquén;3;10,7
+Contaminación por aire;2020;Chapinero;0;0
+Contaminación por aire;2020;Santa Fe;3;10,7
+Contaminación por aire;2020;San Cristóbal;2;7,1
+Contaminación por aire;2020;Usme;0;0
+Contaminación por aire;2020;Tunjuelito;2;7,1
+Contaminación por aire;2020;Bosa;4;14,3
+Contaminación por aire;2020;Kennedy;4;14,3
+Contaminación por aire;2020;Fontibón;1;3,6
+Contaminación por aire;2020;Engativá;1;3,6
+Contaminación por aire;2020;Suba;1;3,6
+Contaminación por aire;2020;Barrios Unidos;1;3,6
+Contaminación por aire;2020;Teusaquillo;1;3,6
+Contaminación por aire;2020;Los Mártires;2;7,1
+Contaminación por aire;2020;Antonio Nariño;0;0
+Contaminación por aire;2020;Puente Aranda;1;3,6
+Contaminación por aire;2020;La Candelaria;0;0
+Contaminación por aire;2020;Rafael Uribe Uribe;1;3,6
+Contaminación por aire;2020;Ciudad Bolívar;1;3,6
+Contaminación por aire;2020;Distrito;28;100
+Olores ofensivos;2020;Usaquén;5;9,6
+Olores ofensivos;2020;Chapinero;0;0
+Olores ofensivos;2020;Santa Fe;0;0
+Olores ofensivos;2020;San Cristóbal;0;0
+Olores ofensivos;2020;Usme;5;9,6
+Olores ofensivos;2020;Tunjuelito;4;7,7
+Olores ofensivos;2020;Bosa;4;7,7
+Olores ofensivos;2020;Kennedy;10;19,2
+Olores ofensivos;2020;Fontibón;5;9,6
+Olores ofensivos;2020;Engativá;2;3,8
+Olores ofensivos;2020;Suba;4;7,7
+Olores ofensivos;2020;Barrios Unidos;1;1,9
+Olores ofensivos;2020;Teusaquillo;1;1,9
+Olores ofensivos;2020;Los Mártires;1;1,9
+Olores ofensivos;2020;Antonio Nariño;1;1,9
+Olores ofensivos;2020;Puente Aranda;4;7,7
+Olores ofensivos;2020;La Candelaria;0;0
+Olores ofensivos;2020;Rafael Uribe Uribe;1;1,9
+Olores ofensivos;2020;Ciudad Bolívar;4;7,7
+Olores ofensivos;2020;Distrito;52;100
+Humo de tabaco;2020;Usaquén;1;4,3
+Humo de tabaco;2020;Chapinero;7;30,4
+Humo de tabaco;2020;Santa Fe;0;0
+Humo de tabaco;2020;San Cristóbal;0;0
+Humo de tabaco;2020;Usme;0;0
+Humo de tabaco;2020;Tunjuelito;0;0
+Humo de tabaco;2020;Bosa;0;0
+Humo de tabaco;2020;Kennedy;3;13
+Humo de tabaco;2020;Fontibón;1;4,3
+Humo de tabaco;2020;Engativá;0;0
+Humo de tabaco;2020;Suba;1;4,3
+Humo de tabaco;2020;Barrios Unidos;4;17,4
+Humo de tabaco;2020;Teusaquillo;4;17,4
+Humo de tabaco;2020;Los Mártires;0;0
+Humo de tabaco;2020;Antonio Nariño;1;4,3
+Humo de tabaco;2020;Puente Aranda;1;4,3
+Humo de tabaco;2020;La Candelaria;0;0
+Humo de tabaco;2020;Rafael Uribe Uribe;0;0
+Humo de tabaco;2020;Ciudad Bolívar;0;0
+Humo de tabaco;2020;Distrito;23;100
+Contaminación por ruido;2020;Usaquén;3;5,3
+Contaminación por ruido;2020;Chapinero;2;3,5
+Contaminación por ruido;2020;Santa Fe;2;3,5
+Contaminación por ruido;2020;San Cristóbal;1;1,8
+Contaminación por ruido;2020;Usme;3;5,3
+Contaminación por ruido;2020;Tunjuelito;4;7
+Contaminación por ruido;2020;Bosa;6;10,5
+Contaminación por ruido;2020;Kennedy;5;8,8
+Contaminación por ruido;2020;Fontibón;7;12,3
+Contaminación por ruido;2020;Engativá;7;12,3
+Contaminación por ruido;2020;Suba;3;5,3
+Contaminación por ruido;2020;Barrios Unidos;4;7
+Contaminación por ruido;2020;Teusaquillo;3;5,3
+Contaminación por ruido;2020;Los Mártires;1;1,8
+Contaminación por ruido;2020;Antonio Nariño;1;1,8
+Contaminación por ruido;2020;Puente Aranda;2;3,5
+Contaminación por ruido;2020;La Candelaria;0;0
+Contaminación por ruido;2020;Rafael Uribe Uribe;1;1,8
+Contaminación por ruido;2020;Ciudad Bolívar;2;3,5
+Contaminación por ruido;2020;Distrito;57;100
+Radiaciones electromagnéticas;2020;Usaquén;1;14,3
+Radiaciones electromagnéticas;2020;Chapinero;1;14,3
+Radiaciones electromagnéticas;2020;Santa Fe;0;0
+Radiaciones electromagnéticas;2020;San Cristóbal;0;0
+Radiaciones electromagnéticas;2020;Usme;0;0
+Radiaciones electromagnéticas;2020;Tunjuelito;0;0
+Radiaciones electromagnéticas;2020;Bosa;1;14,3
+Radiaciones electromagnéticas;2020;Kennedy;0;0
+Radiaciones electromagnéticas;2020;Fontibón;0;0
+Radiaciones electromagnéticas;2020;Engativá;1;14,3
+Radiaciones electromagnéticas;2020;Suba;1;14,3
+Radiaciones electromagnéticas;2020;Barrios Unidos;0;0
+Radiaciones electromagnéticas;2020;Teusaquillo;0;0
+Radiaciones electromagnéticas;2020;Los Mártires;1;14,3
+Radiaciones electromagnéticas;2020;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2020;Puente Aranda;0;0
+Radiaciones electromagnéticas;2020;La Candelaria;1;14,3
+Radiaciones electromagnéticas;2020;Rafael Uribe Uribe;0;0
+Radiaciones electromagnéticas;2020;Ciudad Bolívar;0;0
+Radiaciones electromagnéticas;2020;Distrito;7;100
+Contaminación por aire;2021;Usaquén;0;0
+Contaminación por aire;2021;Chapinero;4;6,8
+Contaminación por aire;2021;Santa Fe;0;0
+Contaminación por aire;2021;San Cristóbal;1;1,7
+Contaminación por aire;2021;Usme;8;13,6
+Contaminación por aire;2021;Tunjuelito;3;5,1
+Contaminación por aire;2021;Bosa;8;13,6
+Contaminación por aire;2021;Kennedy;4;6,8
+Contaminación por aire;2021;Fontibón;1;1,7
+Contaminación por aire;2021;Engativá;5;8,5
+Contaminación por aire;2021;Suba;5;8,5
+Contaminación por aire;2021;Barrios Unidos;4;6,8
+Contaminación por aire;2021;Teusaquillo;3;5,1
+Contaminación por aire;2021;Los Mártires;0;0
+Contaminación por aire;2021;Antonio Nariño;3;5,1
+Contaminación por aire;2021;Puente Aranda;5;8,5
+Contaminación por aire;2021;La Candelaria;0;0
+Contaminación por aire;2021;Rafael Uribe Uribe;1;1,7
+Contaminación por aire;2021;Ciudad Bolívar;4;6,8
+Contaminación por aire;2021;Distrito;59;100
+Olores ofensivos;2021;Usaquén;11;8,5
+Olores ofensivos;2021;Chapinero;8;6,2
+Olores ofensivos;2021;Santa Fe;0;0
+Olores ofensivos;2021;San Cristóbal;3;2,3
+Olores ofensivos;2021;Usme;9;6,9
+Olores ofensivos;2021;Tunjuelito;7;5,4
+Olores ofensivos;2021;Bosa;9;6,9
+Olores ofensivos;2021;Kennedy;17;13,1
+Olores ofensivos;2021;Fontibón;9;6,9
+Olores ofensivos;2021;Engativá;15;11,5
+Olores ofensivos;2021;Suba;13;10
+Olores ofensivos;2021;Barrios Unidos;5;3,8
+Olores ofensivos;2021;Teusaquillo;3;2,3
+Olores ofensivos;2021;Los Mártires;0;0
+Olores ofensivos;2021;Antonio Nariño;5;3,8
+Olores ofensivos;2021;Puente Aranda;2;1,5
+Olores ofensivos;2021;La Candelaria;0;0
+Olores ofensivos;2021;Rafael Uribe Uribe;1;0,8
+Olores ofensivos;2021;Ciudad Bolívar;13;10
+Olores ofensivos;2021;Distrito;130;100
+Humo de tabaco;2021;Usaquén;2;10,5
+Humo de tabaco;2021;Chapinero;1;5,3
+Humo de tabaco;2021;Santa Fe;0;0
+Humo de tabaco;2021;San Cristóbal;2;10,5
+Humo de tabaco;2021;Usme;0;0
+Humo de tabaco;2021;Tunjuelito;0;0
+Humo de tabaco;2021;Bosa;2;10,5
+Humo de tabaco;2021;Kennedy;1;5,3
+Humo de tabaco;2021;Fontibón;5;26,3
+Humo de tabaco;2021;Engativá;3;15,8
+Humo de tabaco;2021;Suba;1;5,3
+Humo de tabaco;2021;Barrios Unidos;2;10,5
+Humo de tabaco;2021;Teusaquillo;0;0
+Humo de tabaco;2021;Los Mártires;0;0
+Humo de tabaco;2021;Antonio Nariño;0;0
+Humo de tabaco;2021;Puente Aranda;0;0
+Humo de tabaco;2021;La Candelaria;0;0
+Humo de tabaco;2021;Rafael Uribe Uribe;0;0
+Humo de tabaco;2021;Ciudad Bolívar;0;0
+Humo de tabaco;2021;Distrito;19;100
+Contaminación por ruido;2021;Usaquén;12;7,6
+Contaminación por ruido;2021;Chapinero;5;3,2
+Contaminación por ruido;2021;Santa Fe;1;0,6
+Contaminación por ruido;2021;San Cristóbal;3;1,9
+Contaminación por ruido;2021;Usme;10;6,4
+Contaminación por ruido;2021;Tunjuelito;13;8,3
+Contaminación por ruido;2021;Bosa;17;10,8
+Contaminación por ruido;2021;Kennedy;16;10,2
+Contaminación por ruido;2021;Fontibón;9;5,7
+Contaminación por ruido;2021;Engativá;17;10,8
+Contaminación por ruido;2021;Suba;16;10,2
+Contaminación por ruido;2021;Barrios Unidos;3;1,9
+Contaminación por ruido;2021;Teusaquillo;7;4,5
+Contaminación por ruido;2021;Los Mártires;4;2,5
+Contaminación por ruido;2021;Antonio Nariño;3;1,9
+Contaminación por ruido;2021;Puente Aranda;9;5,7
+Contaminación por ruido;2021;La Candelaria;0;0
+Contaminación por ruido;2021;Rafael Uribe Uribe;5;3,2
+Contaminación por ruido;2021;Ciudad Bolívar;7;4,5
+Contaminación por ruido;2021;Distrito;157;100
+Radiaciones electromagnéticas;2021;Usaquén;1;7,7
+Radiaciones electromagnéticas;2021;Chapinero;2;15,4
+Radiaciones electromagnéticas;2021;Santa Fe;0;0
+Radiaciones electromagnéticas;2021;San Cristóbal;0;0
+Radiaciones electromagnéticas;2021;Usme;0;0
+Radiaciones electromagnéticas;2021;Tunjuelito;0;0
+Radiaciones electromagnéticas;2021;Bosa;1;7,7
+Radiaciones electromagnéticas;2021;Kennedy;1;7,7
+Radiaciones electromagnéticas;2021;Fontibón;0;0
+Radiaciones electromagnéticas;2021;Engativá;5;38,5
+Radiaciones electromagnéticas;2021;Suba;1;7,7
+Radiaciones electromagnéticas;2021;Barrios Unidos;2;15,4
+Radiaciones electromagnéticas;2021;Teusaquillo;0;0
+Radiaciones electromagnéticas;2021;Los Mártires;0;0
+Radiaciones electromagnéticas;2021;Antonio Nariño;0;0
+Radiaciones electromagnéticas;2021;Puente Aranda;0;0
+Radiaciones electromagnéticas;2021;La Candelaria;0;0
+Radiaciones electromagnéticas;2021;Rafael Uribe Uribe;0;0
+Radiaciones electromagnéticas;2021;Ciudad Bolívar;0;0
+Radiaciones electromagnéticas;2021;Distrito;13;100
