@@ -54,8 +54,8 @@ fuentes['Ejercicio'] = """  \n  \n  Fuente de los datos: https://datosabiertos.b
 sidebar = st.sidebar
 sidebar.image('Images//logo_sds.png')
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
-sidebar.header('Accede a la aplicación desde el celular escaneando el código qr:')
-sidebar.image('Images//qrcode.png')
+sidebar.markdown('Accede a la aplicación desde el celular escaneando el código qr:')
+sidebar.image('Images//qrcode.png', width=50)
 
 ## Principal:
 st.header('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
