@@ -38,7 +38,7 @@ imagenes['¿Para qué nos sirve la Ciencia de Datos?'] = 'Images//graficas.jpg'
 imagenes['¿Cuáles son las técnicas de la ciencia de datos?'] = 'Images//algoritmos'
 imagenes['¿Cuál es el proceso de la ciencia de datos?'] = 'Images//proceso.jpeg'
 imagenes['¿Qué herramientas usa un científico de datos?'] = 'Images//herramientas.png'
-imagenes['Ejercicio'] = 'Images//datos_abiertos.png'
+imagenes['Ejercicio'] = 'Images//Aws_Machine_Learning.avif'
 
 # Fuentes:
 fuentes = dict()
@@ -67,8 +67,8 @@ st.markdown(textos[tema_seleccionado])
 try:
     if 'Ejercicio' in tema_seleccionado:
         col1, col2 = st.columns(2)
+        col2.image('Images//datos_abiertos_2.png')
         col1.image('Images//logo_oab.png')
-        col2.image('Images//datos_abiertos.png')
         st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023 usando Inteligencia Artificial.')
         
 except:
