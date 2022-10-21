@@ -38,7 +38,7 @@ imagenes['¿Para qué nos sirve la Ciencia de Datos?'] = 'Images//graficas.jpg'
 imagenes['¿Cuáles son las técnicas de la ciencia de datos?'] = 'Images//algoritmos'
 imagenes['¿Cuál es el proceso de la ciencia de datos?'] = 'Images//proceso.jpeg'
 imagenes['¿Qué herramientas usa un científico de datos?'] = 'Images//herramientas.png'
-imagenes['Ejercicio'] = 'Images//Aws_Machine_Learning.avif'
+imagenes['Ejercicio'] = 'Images//Aws_Machine_Learning.png'
 
 # Fuentes:
 fuentes = dict()
