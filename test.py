@@ -66,11 +66,10 @@ st.markdown(textos[tema_seleccionado])
 
 try:
     if 'Ejercicio' in tema_seleccionado:
-        st.header('')
+        st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023 usando Inteligencia Artificial.')
         col1, col2 = st.columns(2)
         col1.image('Images//datos_abiertos_2.png')
         col2.image('Images//logo_oab.png')
-        st.header('La calidad del aire en Bogotá, su impacto en los indicadores de salud y su pronóstico para el 2023 usando Inteligencia Artificial.')
         
 except:
     pass
