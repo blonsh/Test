@@ -56,6 +56,7 @@ sidebar.image('Images//alcaldiac_logo.png', width=300)
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
 sidebar.markdown('Accede a la aplicación desde el celular escaneando el código qr:')
 sidebar.image('Images//qrcode.png', width=250)
+sidebar.markdown('Aplicación elaborada por [David Zambrano](https://www.linkedin.com/in/david-enrique-zambrano-a753a764/) :flag-co:')
 
 ## Principal:
 st.header('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
