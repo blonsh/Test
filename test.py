@@ -66,7 +66,7 @@ st.markdown(textos[tema_seleccionado])
 
 try:
     if 'Ejercicio' in tema_seleccionado:
-        st.header()
+        st.header('')
         col1, col2 = st.columns(2)
         col1.image('Images//datos_abiertos_2.png')
         col2.image('Images//logo_oab.png')
