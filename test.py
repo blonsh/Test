@@ -52,7 +52,7 @@ fuentes['Ejercicio'] = """  \n  \n  Accede al notebook por el siguiente enlace: 
 # Estructura:
 ## Sidebar:
 sidebar = st.sidebar
-sidebar.image('Images//logo_sds.png', width=300)
+sidebar.image('Images//alcaldiac_logo.png', width=300)
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
 sidebar.markdown('Accede a la aplicación desde el celular escaneando el código qr:')
 sidebar.image('Images//qrcode.png', width=250)
