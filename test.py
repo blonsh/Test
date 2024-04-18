@@ -1,8 +1,4 @@
 import streamlit as st
-#import pandas as pd
-#import numpy as np
-#import plotly.express as px
-
 
 # Configuración de la App:
 st.set_page_config(page_title="Ciencia de Datos - SDS", page_icon="📊")
@@ -50,7 +46,7 @@ fuentes['¿Qué herramientas usa un científico de datos?'] = """  \n  \n  Fuent
 fuentes['Ciencia de Datos Aplicada'] = """  \n  \n  Accede al notebook por el siguiente enlace: https://github.com/econdavidzh/sds/blob/main/calidad%20del%20aire%20en%20Bogota%CC%81.ipynb o https://colab.research.google.com/drive/1ZlwVZqf2TblyHBrG_E1JweR6vbzanQg8?usp=sharing"""
 
 # Estructura:
-## Sidebar:
+# Sidebar:
 sidebar = st.sidebar
 sidebar.image('Images//alcaldiac_logo.png', width=300)
 tema_seleccionado = sidebar.selectbox('Selecciona un tema', tema)
@@ -58,7 +54,7 @@ sidebar.markdown('Accede a la aplicación desde el celular escaneando el código
 sidebar.image('Images//qrcode.png', width=250)
 sidebar.markdown('Aplicación elaborada por [David Zambrano](https://www.linkedin.com/in/david-enrique-zambrano-a753a764/) :flag-co:')
 
-## Principal:
+# Principal:
 st.header('X Jornada Distrital de Epidemiología y Salud Pública - Secretaría Distrital de Salud de Bogotá.')
 st.title('Introducción a la Ciencia de Datos e Inteligencia Artificial') 
 st.subheader(tema_seleccionado)
