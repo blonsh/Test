@@ -41,6 +41,7 @@ imagenes['Ciencia de Datos Aplicada'] = 'Images//Aws_Machine_Learning.png'
 
 # Fuentes:
 fuentes = dict()
+fuentes['Mi primer tema'] = """Blanca Sánchez"""
 fuentes['¿Qué significan estos conceptos?'] = """  \n  \n Fuentes:  \n  https://aws.amazon.com/es/what-is/data-science/  \n  https://www.oracle.com/co/artificial-intelligence/what-is-ai/"""
 fuentes['¿Para qué nos sirve la Ciencia de Datos?'] = """\n  \n Fuente: https://aws.amazon.com/es/what-is/data-science/"""
 fuentes['¿Cuáles son las técnicas de la ciencia de datos?'] = """  \n  \n  Fuentes:  \n  \n  https://aws.amazon.com/es/what-is/data-science/  \n  \n  Chollet, F. (2021). Deep learning with Python. Simon and Schuster."""
