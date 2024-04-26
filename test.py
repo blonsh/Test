@@ -31,7 +31,7 @@ textos['Ciencia de Datos Aplicada'] = """Para este ejercicio utilizamos algunas 
 
 # Imágenes:
 imagenes = dict()
-imagenes['Mi primer tema'] = 'Images//Sinaloa'
+imagenes['Mi primer tema'] = 'Images//sinaloa.jpeg'
 imagenes['¿Qué significan estos conceptos?'] = 'Images//ai.jpeg'
 imagenes['¿Para qué nos sirve la Ciencia de Datos?'] = 'Images//graficas.jpg'
 imagenes['¿Cuáles son las técnicas de la ciencia de datos?'] = 'Images//algoritmos'
