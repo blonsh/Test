@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Configuración de la App:
-st.set_page_config(page_title="Ciencia de Datos - SDS", page_icon="📊")
+st.set_page_config(page_title="Mi App Blanca Sánchez", page_icon="📊")
 
 # Temas:
 tema = ['¿Qué significan estos conceptos?', 
